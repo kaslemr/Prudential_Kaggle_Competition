@@ -1,10 +1,3 @@
-Can you make buying life insurance easier?
-
-Picture this. You are a data scientist in a start-up culture with the potential to have a very large impact on the business. Oh, and you are backed up by a company with 140 years' business experience.
-
-Curious? Great! You are the kind of person we are looking for.
-
-Prudential, one of the largest issuers of life insurance in the USA, is hiring passionate data scientists to join a newly-formed Data Science group solving complex challenges and identifying opportunities. The results have been impressive so far but we want more. 
 
 The Challenge
 
